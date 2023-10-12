@@ -1,7 +1,5 @@
 # news_readers
 
-![image](https://github.com/moniruzzaman76/News-Reader-App/assets/107347380/8b103558-cba5-4c03-84df-907a1a5e4ff3)
-![image](https://github.com/moniruzzaman76/News-Reader-App/assets/107347380/cbf7cfef-afa2-432b-833a-0370583670de)
 
 
 
