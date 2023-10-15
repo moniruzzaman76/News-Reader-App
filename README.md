@@ -21,6 +21,11 @@ News Read integrates the following packages to enhance functionality:
 6. connectivity_plus: ^4.0.2: Use this for checking network connectivity.
 7. flutter_launcher_icons: ^0.13.1: Simplify the generation of launcher icons on various platforms.
 
+# Challange I Faced
+1. The first time I used Hive, it was complicated for me. I overcame this challenge by reading the documentation and having discussions with my close mates.
+2. When I used Riverpod for the first time, it was also complicated for me.  I overcame this challenge by reading the documentation, watching YouTube videos, and having discussions with my close mates.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
