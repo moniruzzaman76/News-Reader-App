@@ -1,6 +1,12 @@
 # news_readers
 
 
+# Responsibility
+  Read all news accross the globe from a variety of sources
+  Save news for offline reading
+  Simple and user-friendly interface
+
+
 ![image](https://github.com/moniruzzaman76/News-Reader-App/assets/107347380/8febffca-cab1-4018-8d81-837c67d1adad)
 ![image](https://github.com/moniruzzaman76/News-Reader-App/assets/107347380/409dd15a-9daa-431b-a802-c9d92517aa23)
 
