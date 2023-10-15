@@ -1,4 +1,4 @@
-# news_readers
+# News_readers
   A simple News app using News API.
 
 # Responsibility
