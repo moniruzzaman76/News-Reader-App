@@ -2,9 +2,9 @@
 
 
 # Responsibility
-  Read all news accross the globe from a variety of sources
-  Save news for offline reading
-  Simple and user-friendly interface
+  1. Read all news accross the globe from a variety of sources
+  2. Save news for offline reading
+  3. Simple and user-friendly interface
 
 # News Reader UI
 ![image](https://github.com/moniruzzaman76/News-Reader-App/assets/107347380/8febffca-cab1-4018-8d81-837c67d1adad)
