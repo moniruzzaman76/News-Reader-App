@@ -13,13 +13,13 @@
 # Used Packages 
 News Read integrates the following packages to enhance functionality:
 
-http: ^1.1.0: Perform HTTP requests and interact with APIs.
-shimmer: ^3.0.0: Shimmer effect when loading news in progress.
-cached_network_image: ^3.3.0: For network image caching and showing.
-flutter_riverpod: ^2.4.1: Flutter Riverpod for state management.
-hive: ^2.2.3 & hive_flutter: ^1.1.0: As a local database for store news.
-connectivity_plus: ^4.0.2: Use this for checking network connectivity.
-flutter_launcher_icons: ^0.13.1: Simplify the generation of launcher icons on various platforms.
+1. http: ^1.1.0: Perform HTTP requests and interact with APIs.
+2. shimmer: ^3.0.0: Shimmer effect when loading news in progress.
+3. cached_network_image: ^3.3.0: For network image caching and showing.
+4. flutter_riverpod: ^2.4.1: Flutter Riverpod for state management.
+5. hive: ^2.2.3 & hive_flutter: ^1.1.0: As a local database for store news.
+6. connectivity_plus: ^4.0.2: Use this for checking network connectivity.
+7. flutter_launcher_icons: ^0.13.1: Simplify the generation of launcher icons on various platforms.
 
 ## Getting Started
 
