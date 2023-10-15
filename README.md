@@ -1,5 +1,5 @@
 # news_readers
-
+  A simple News app using News API.
 
 # Responsibility
   1. Read all news accross the globe from a variety of sources
